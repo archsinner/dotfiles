@@ -2,10 +2,10 @@ Archsinner's Dotfiles!
 
 The repository is organized as follows:
 
-    bashrc: Configuration for the Bash shell.
-    bashprofile: Additional Bash configurations.
-    xinitrc: Configuration for the X Window System (X11).
-    Add more files and directories as needed for other configurations.
+bashrc: Configuration for the Bash shell.
+bashprofile: Additional Bash configurations.
+xinitrc: Configuration for the X Window System (X11).
+Add more files and directories as needed for other configurations.
 
 Credits
 
